@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Editors
+.idea/
+.vscode/
+*.swp
+*~
+
+# Scratch / local-only
+scratch/
+tmp/
+*.local.md
